@@ -67,7 +67,7 @@ IN THE SOFTWARE.
         valid_length: [16]
       }, {
         name: 'maestro',
-        pattern: /^(5018|5020|5038|6304|6759|676[1-3])/,
+        pattern: /^(5018|5020|5038|6304|6759|6220|676[1-3])/,
         valid_length: [12, 13, 14, 15, 16, 17, 18, 19]
       }, {
         name: 'discover',
